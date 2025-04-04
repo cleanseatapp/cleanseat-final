@@ -4,7 +4,7 @@ function App() {
   const [view, setView] = useState('map');
 
   const mockRestaurant = {
-    name: 'Joey's Cafe',
+    name: "Joey's Cafe",
     location: 'Fairhope, AL',
     highchair: true,
     booster: true,
